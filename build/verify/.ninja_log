@@ -1,0 +1,20 @@
+# ninja log v5
+5	574	8125629961829984	boot_upper_autogen/timestamp	2ced1c5b33d74516
+5	574	8125629961829984	boot_upper_autogen/mocs_compilation.cpp	2ced1c5b33d74516
+5	574	8125629961829984	C:/Users/Administrator/Desktop/boot_upper/build/verify/boot_upper_autogen/timestamp	2ced1c5b33d74516
+5	574	8125629961829984	C:/Users/Administrator/Desktop/boot_upper/build/verify/boot_upper_autogen/mocs_compilation.cpp	2ced1c5b33d74516
+582	1812	8125629974670761	CMakeFiles/boot_upper.dir/iapcodec.cpp.obj	f05b01c963b8e40e
+584	2289	8125629979448602	CMakeFiles/boot_upper.dir/iapclient.cpp.obj	8d05e8ed9bf7fd65
+574	2527	8125629981849435	CMakeFiles/boot_upper.dir/boot_upper_autogen/mocs_compilation.cpp.obj	f74afba6fb2fee4d
+579	3446	8125629990948706	CMakeFiles/boot_upper.dir/mainwindow.cpp.obj	54d3aeee9f2a9568
+577	3546	8125629992042301	CMakeFiles/boot_upper.dir/main.cpp.obj	9ead659af4308898
+3548	3959	8125629995996360	boot_upper.exe	7ce8d9be3ed4f103
+10	504	8125643451872747	boot_upper_autogen/timestamp	2ced1c5b33d74516
+10	504	8125643451872747	boot_upper_autogen/mocs_compilation.cpp	2ced1c5b33d74516
+10	504	8125643451872747	C:/Users/Administrator/Desktop/boot_upper/build/verify/boot_upper_autogen/timestamp	2ced1c5b33d74516
+10	504	8125643451872747	C:/Users/Administrator/Desktop/boot_upper/build/verify/boot_upper_autogen/mocs_compilation.cpp	2ced1c5b33d74516
+533	2055	8125643467802777	CMakeFiles/boot_upper.dir/iapclient.cpp.obj	8d05e8ed9bf7fd65
+504	2293	8125643470201965	CMakeFiles/boot_upper.dir/boot_upper_autogen/mocs_compilation.cpp.obj	f74afba6fb2fee4d
+513	3204	8125643479315890	CMakeFiles/boot_upper.dir/main.cpp.obj	9ead659af4308898
+524	3256	8125643479819694	CMakeFiles/boot_upper.dir/mainwindow.cpp.obj	54d3aeee9f2a9568
+3256	3643	8125643483602435	boot_upper.exe	7ce8d9be3ed4f103

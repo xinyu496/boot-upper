@@ -1,0 +1,17 @@
+# ninja log v5
+4	520	8125644018991977	boot_upper_autogen/timestamp	cfcdc9062fa9b9a1
+4	520	8125644018991977	boot_upper_autogen/mocs_compilation.cpp	cfcdc9062fa9b9a1
+526	2392	8125644037590465	CMakeFiles/boot_upper.dir/iapcodec.cpp.obj	b6d1dd28f6197120
+4	520	8125644018991977	C:/Users/Administrator/Desktop/boot_upper/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/boot_upper_autogen/timestamp	cfcdc9062fa9b9a1
+4	520	8125644018991977	C:/Users/Administrator/Desktop/boot_upper/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/boot_upper_autogen/mocs_compilation.cpp	cfcdc9062fa9b9a1
+528	4306	8125644056951000	CMakeFiles/boot_upper.dir/iapclient.cpp.obj	95b9c6f7908d2e5b
+522	5796	8125644072159506	CMakeFiles/boot_upper.dir/main.cpp.obj	99736ce5466b458d
+520	4781	8125644061976677	CMakeFiles/boot_upper.dir/boot_upper_autogen/mocs_compilation.cpp.obj	255fad8392368982
+524	5810	8125644072238519	CMakeFiles/boot_upper.dir/mainwindow.cpp.obj	dfbf988e1bf57373
+5811	6192	8125644075950185	boot_upper.exe	7ce8d9be3ed4f103
+9	515	8125644235034228	boot_upper_autogen/timestamp	8cf7a3d1bce2162f
+9	515	8125644235034228	boot_upper_autogen/mocs_compilation.cpp	8cf7a3d1bce2162f
+9	515	8125644235034228	C:/Users/Administrator/Desktop/boot_upper/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/boot_upper_autogen/timestamp	8cf7a3d1bce2162f
+9	515	8125644235034228	C:/Users/Administrator/Desktop/boot_upper/build/Desktop_Qt_6_11_1_MinGW_64_bit_Debug/boot_upper_autogen/mocs_compilation.cpp	8cf7a3d1bce2162f
+518	2059	8125644250938083	CMakeFiles/boot_upper.dir/boot_upper_autogen/mocs_compilation.cpp.obj	255fad8392368982
+2059	2422	8125644254456161	boot_upper.exe	7ce8d9be3ed4f103
